@@ -1,0 +1,21 @@
+{
+    "name": "necer-theme",
+    "displayName": "Necer Theme",
+    "description": "VSCode theme ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Necer Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Necer Theem-color-theme.json"
+            }
+        ]
+    }
+}
