@@ -1,10 +1,20 @@
 {
     "name": "necer-theme",
     "displayName": "Necer Theme",
-    "description": "VSCode theme ",
-    "version": "0.0.1",
+    "description": "Yet another dark theme for vscode",
+    "version": "0.0.2",
+    "publisher": "AbhinanduVNair",
+    "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.66.0"
+    },
+    "author": {
+      "name": "Abhinandu V Nair",
+      "url": "https://abhndv.github.io/"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/abhndv/necer-vscode"
     },
     "categories": [
         "Themes"
@@ -14,7 +24,7 @@
             {
                 "label": "Necer Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Necer Theem-color-theme.json"
+                "path": "./themes/Necer Theme-color-theme.json"
             }
         ]
     }
