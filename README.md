@@ -1,4 +1,4 @@
-<span>
+<span align="center">
     <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/abhndv/necer-vscode/main/images/logo.png" width="100" />
 </span>
 <h1 align="center">
@@ -16,7 +16,7 @@
 ## Editor Window
 
 <p align="center">
-  <img alt="Version" src="https://raw.githubusercontent.com/abhndv/necer-vscode/main/images/editor.png" />
+  <img alt="Editor Window" src="https://raw.githubusercontent.com/abhndv/necer-vscode/main/images/editor.png" />
 </p>
 
 ## Color Palette
