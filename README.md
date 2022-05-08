@@ -8,8 +8,8 @@
   A dark vscode theme based on the <a href="https://colorhunt.co/palette/1f1d363f3351864879e9a6a6">ColorHunt Palette</a>
 </p>
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/abhinanduvnair.necer-vscode.svg" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=AbhinanduVNair.necer-theme">
+    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/AbhinanduVNair.necer-theme.svg" />
   </a>
 </p>
 
