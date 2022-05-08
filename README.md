@@ -1,6 +1,6 @@
-<span align="center">
+<p align="center">
     <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/abhndv/necer-vscode/main/images/logo.png" width="100" />
-</span>
+</p>
 <h1 align="center">
   Necer Theme
 </h1>
