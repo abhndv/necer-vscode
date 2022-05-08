@@ -13,7 +13,14 @@
   </a>
 </p>
 
+## Editor Window
+
+<p align="center">
+  <img alt="Version" src="https://raw.githubusercontent.com/abhndv/necer-vscode/main/images/editor.png" />
+</p>
+
 ## Color Palette
+
 <img alt="Color Palette" src="https://raw.githubusercontent.com/abhndv/necer-vscode/main/images/color-palette.png" width="100" />
 
 **Enjoy!**
